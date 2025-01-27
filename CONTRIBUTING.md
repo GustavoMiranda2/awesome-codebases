@@ -11,4 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive. You can use the "description" section of the repository.
 - Check your spelling and grammar.
 
+- Simplicity is better than complexity.
+
+
 Thank you for your suggestions!
